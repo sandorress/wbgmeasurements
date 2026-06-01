@@ -1,0 +1,8 @@
+[Plot Style]
+Limits=1e-06 100 0 6
+WindowSize=906 600
+InverseCurveListInLegend=0
+Plot00=#ff0000
+Plot01=#009300
+Plot02=#0000ff
+Plot03=#000000

@@ -1,0 +1,27 @@
+; power settings file *T3STER* Build Date: Aug 10 2022
+[before]
+;programmed sources
+Ie=           0.000000
+Ucb=          0.000000
+Imeas=        0.010000
+;measured values
+U_DVM=        0.000000
+I_DVM2A=      0.002000
+I_DVM20A=     0.050000
+U_CHANNELS= 3.286595	0.502465	0.597056	1.154989	
+[after]
+;programmed sources
+Ie=           0.000000
+Ucb=          0.000000
+Imeas=        0.010000
+;measured values
+U_DVM=        0.000000
+I_DVM2A=      0.001000
+I_DVM20A=     0.050000
+U_CHANNELS= 3.221999	0.097473	0.115955	0.227910	
+[Booster]
+Sensor currents= 2.000140	2.000000	2.000000	2.000000
+Drive currents= 8.000000	8.000000	8.000000	8.000000
+[power]
+;Calculated power
+Power=26.421960	0.000000	0.000000	0.000000	
